@@ -41,7 +41,7 @@ public class Kennel
             System.out.println("\nDog information menu:");
             System.out.println("\t1. Show the Dog's Breed");
             System.out.println("\t2. Show the Dog's Name");
-            System.out.println("\t3. Show the Dog's Age");
+            System.out.println("\t3. Show DOG'S Age");
             System.out.println("\t4. Update the Dog's Breed");
             System.out.println("\t5. Update the Dog's Name");
             System.out.println("\t6. Update the Dog's Age");
